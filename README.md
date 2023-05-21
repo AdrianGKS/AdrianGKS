@@ -1,6 +1,6 @@
 ### Oi! Tudo bem? Me chamo Adrian 👋
-- 🔭 Contribuindo como desenvolvedor back-end na <a text-decoration=none href="https://www.linkedin.com/company/devsfree/mycompany/" target="_blank">DevsFree</a>
-- 🌱 Estudando principalmente Java e sempre em busca de novos conhecimentos
+- 🔭 Contribuo como desenvolvedor back-end na <a text-decoration=none href="https://www.linkedin.com/company/devsfree/mycompany/" target="_blank">DevsFree</a>
+- 🌱 Estudo principalmente Java e sempre em busca de novos conhecimentos
 - ✨ Comprometido em aprender e crescer na área de desenvolvimento
 - 💻 Buscando minha primeira experiência profissional como desenvolvedor
 
