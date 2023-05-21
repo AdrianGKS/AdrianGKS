@@ -1,5 +1,5 @@
 ### Oi! Tudo bem? Me chamo Adrian Gabriel 👋
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje contribuo como voluntário na DevsFree como desenvolvedor back-end
 - 🌱 Estou estudando principalmente Java
 - ✨ E sempre estou procurando novos conhecimentos
 - 💻 Em busca da primeira experiência profissional como dev
