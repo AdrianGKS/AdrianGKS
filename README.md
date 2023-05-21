@@ -1,5 +1,5 @@
 ### Oi! Tudo bem? Me chamo Adrian Gabriel 👋
-- 🔭 Hoje contribuo como voluntário na <a text-decoration=none href="https://www.linkedin.com/company/devsfree/mycompany/">DevsFree</a> como desenvolvedor back-end
+- 🔭 Hoje contribuo como voluntário na <a text-decoration=none href="https://www.linkedin.com/company/devsfree/mycompany/" target="_blank">DevsFree</a> como desenvolvedor back-end
 - 🌱 Estou estudando principalmente Java
 - ✨ E sempre estou procurando novos conhecimentos
 - 💻 Em busca da primeira experiência profissional como dev
@@ -7,12 +7,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianGKS&theme=radical)](https://github.com/AdrianGKS/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGKS&layout=compact&theme=radical)](https://github.com/AdrianGKS/github-readme-stats)
 <div style="display: inline_block">
-  <img align="center" alt="Adrian-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Adrian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adrian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Adrian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Adrian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Adrian-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Adrian-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank">
+  <img align="center" alt="Adrian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
+  <img align="center" alt="Adrian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">
+  <img align="center" alt="Adrian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">  
+  <img align="center" alt="Adrian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
+  <img align="center" alt="Adrian-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank">
 </div>
 
  ##
