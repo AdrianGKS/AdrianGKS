@@ -1,8 +1,8 @@
 ### Oi! Tudo bem? Me chamo Adrian 👋
-- 🔭 Hoje contribuo de forma voluntário na <a text-decoration=none href="https://www.linkedin.com/company/devsfree/mycompany/" target="_blank">DevsFree</a> como desenvolvedor back-end
-- 🌱 Estou estudando principalmente Java
-- ✨ Sempre em busca de novos conhecimentos
-- 💻 Em busca da primeira experiência profissional como dev
+- 🔭 Contribuindo como desenvolvedor back-end na <a text-decoration=none href="https://www.linkedin.com/company/devsfree/mycompany/" target="_blank">DevsFree</a>
+- 🌱 Estudando principalmente Java e sempre em busca de novos conhecimentos
+- ✨ Comprometido em aprender e crescer na área de desenvolvimento
+- 💻 Buscando minha primeira experiência profissional como desenvolvedor
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianGKS&theme=radical)](https://github.com/AdrianGKS/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGKS&layout=compact&theme=radical)](https://github.com/AdrianGKS/github-readme-stats)
