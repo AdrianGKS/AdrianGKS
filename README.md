@@ -4,7 +4,6 @@
 - ✨ Comprometido em aprender e crescer como desenvolvedor
 - 💻 Buscando oportunidades de trabalho na área de desenvolvimento
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianGKS&theme=radical)](https://github.com/AdrianGKS/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGKS&layout=compact&theme=radical)](https://github.com/AdrianGKS/github-readme-stats)
 <div style="display: inline_block">
   <img align="center" alt="Adrian-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank">
