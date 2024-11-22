@@ -7,11 +7,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGKS&layout=compact&theme=radical)](https://github.com/AdrianGKS/github-readme-stats)
 <div style="display: inline_block">
   <img align="center" alt="Adrian-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank">
+  <img align="center" alt="Adrian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
+  <img align="center" alt="Adrian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" target="_blank">
   <img align="center" alt="Adrian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
   <img align="center" alt="Adrian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">
   <img align="center" alt="Adrian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">  
-  <img align="center" alt="Adrian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
-  <img align="center" alt="Adrian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" target="_blank">
 </div>
 
  ##
